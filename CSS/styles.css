@@ -8,9 +8,11 @@ h3{
     font-size:40px ;
 }
 ul{
-    font-size: larger;
-    
+    font-size: 40px;
+    float: right;
+    word-spacing: 4px;
+    word-wrap: normal;
 }
 body{
-    background-color: rgb(43, 85, 139);
+    background-color: snow;
 }
